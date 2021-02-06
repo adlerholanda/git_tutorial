@@ -9,8 +9,30 @@
 
 ---
 
+Resumo geral no PDF Manual linkdado
+
+---
+
+CoteReplay
+
+> Beleza, Fulano! Ficou legal a interação.
+> Best regards!
+
+---
+
+Citações
+@gustavoguanabara
+
+---
+emojis
+* [GitHub para Emojis Markdown](https://github.com/ikatyang/emoji-cheat-sheet)
+* [Emoji names official character and/or CLDR names and code points listed as part of the Unicode Standard](https://emojipedia.org/)
+
+---
+
 Não entendi o código `console.log(dataConst ${var})` na linha 5
 E tb essa parte do código:
+
 ```
 <!DOCTYPE html>
 <html lang="pt-br">
